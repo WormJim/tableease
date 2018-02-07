@@ -1,0 +1,9 @@
+id,menu_item,sub_item,courses_id,description,menu_item_key,restaurant_key,date_created,last_update
+1,"Empanadas de Pollo",Chicken,0,"Chicken Empanadas",abc,1,"2018-01-17 16:17:48","2018-01-17 16:17:48"
+5,Tamales,Pork,0,"Pork Tamales",abc1,1,"2018-01-17 16:21:31","2018-01-17 16:21:31"
+6,Tamales,Chicken,0,"Chicken Tamales",abc2,1,"2018-01-17 16:21:31","2018-01-17 16:21:31"
+7,"Chicharron de Calamar",NULL,0,"Fried Calamari: Light, crispy Calamari served with dipping tartar sauce, salsa criolla",abc3,1,"2018-01-17 16:21:31","2018-01-17 16:21:31"
+8,"Camarones Fritos",NULL,0,"Fried Shimpwith Yca Fries",abc4,1,"2018-01-17 16:21:31","2018-01-17 16:21:31"
+9,"Empanadas de Carne",Steak,0,"Steak Empanadas",abc4,1,"2018-01-17 16:28:14","2018-01-17 16:28:14"
+10,Salchipapas,NULL,0,"Sliced Fried Frankfurters over French Fries",abc4,1,"2018-01-17 16:28:14","2018-01-17 16:28:14"
+11,"Papa a La Huancaina",NULL,0,"Slices of Yukon boiled Potatoes dressed in a yellow Aji Cheese sauce, black olives, eggs",abc4,1,"2018-01-17 16:28:14","2018-01-17 16:28:14"
